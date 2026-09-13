@@ -1,11 +1,4 @@
 Entries:
-- author: Conflee
-  changes:
-  - message: Fixed Box Shelves deleting their contents when deconstructed. Boxes on the shelves now drop properly.
-    type: Fix
-  id: 408115
-  time: '2026-09-04T04:33:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/5972
 - author: Rhapsody (Pepta Vismahl)
   changes:
   - message: Visual polish on the ChemMaster's modern and classic layouts.
@@ -2799,4 +2792,11 @@ Entries:
   id: 408514
   time: '2026-09-12T18:45:40.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/6121
+- author: Forrestgod
+  changes:
+  - message: Quartermaster now starts with a cargo key in it.
+    type: Fix
+  id: 408515
+  time: '2026-09-13T08:01:42.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/6141
 Order: -1
